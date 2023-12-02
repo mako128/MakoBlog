@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    
+  font-family: "Inter", sans-serif;
+  background-color: #90A9B7;
+}
+.signedIn{
+    font-family: "Inter", sans-serif;
+
+}
+
+h1{
+
+    letter-spacing: -.05em;
+    font:normal 80px/1 A\&I Garamond, Georgia, Times, serif
+}
